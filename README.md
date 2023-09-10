@@ -14,4 +14,4 @@
 ### Vectorstore Connect
 | Variable    | Description     | Example                                               |
 | ----------- | --------------- | ----------------------------------------------------- |
-| MONGODB_URL | Mongodb連線字串 | `mongodb+srv://user:pwd@cluster.pycmsrd.mongodb.net/` |
+| MONGODB_URL | Mongodb連線位置 | `mongodb+srv://user:pwd@cluster.pycmsrd.mongodb.net/` |
